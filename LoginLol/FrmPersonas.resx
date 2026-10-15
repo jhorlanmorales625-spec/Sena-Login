@@ -163,7 +163,7 @@
   <data name="btnCancelar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7AAAAOwAFq1okJAAAAB3RJ
         TUUH5QodDxIy2eHRHAAAA8RJREFUaEPtmsmLFVcUh9s4TytBXYkj/gXqynlAURAJLqJx2rlyaVQEXYsK
         DjsVB1DBBES0g/4DQkR3KuhGRU0UpySKikP0+5pXj+rX99Wruq+eXUJ+8EFTr/rec+pO55yqrpI1HCbA
         LFjagNf8bQRURgNhGqyFPXAZ7sAzeNOA1+7CFfBe/2cq2EYpGlojj0bBfDgKD+AzfCnIJ7gPR2AujIRo
@@ -186,7 +186,7 @@
   <data name="btnEditar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAdhvAAHYbwGeApISAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAdhtAAHYbQHh/FGbAAAAB3RJ
         TUUH5QIKDwgr8Bmn4AAAA5NJREFUaEPtmsuKE0EUhoPj/cqgCN59DV9gZvbOG/gCLkRRxxl1hAFxoSiI
         blz4Lr6AGzdecSfoQse76Pcl1aHSqU7S6e5JwDnwkaTqnFPnr67q7nTSmp+f3wWX4SP8rZkPcBEco9WI
         kfgqfIZUAXXwFVZhN4RRazSSfoLUwHXyA+7AXggjj2b6wzY4Cv1HkobUgE3wC+7CPgijDzb9YA/chFfw
@@ -236,7 +236,7 @@
   <data name="btnSalir.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAAAQZJREFUaEPtmMsNwjAQBdMExXCCJrhDJUh0QxWUwpkCOPJ5T8LSCiU49npjh+xI
+        wAAADsABataJCQAAAQZJREFUaEPtmMsNwjAQBdMExXCCJrhDJUh0QxWUwpkCOPJ5T8LSCiU49npjh+xI
         Iw4ErwebC53jOE6zXOFzAjnHBC7+mkgT/jrgBndQg1zfhNgJ8P0zXMEcqgcEc0+jmQDKZ1NpKoCm4gEx
         agWcPq9qrAOOQgnnFomwDhiCc4tE1AzgeuoITcAeyiuSopyritAEPGDfMzlmRyw64AD7rscY5dzszRNN
         gAY5t9qPWAPnqr75gHWAvDaSIpsn1gFyfUmRzZNaAcXwgAgeEMMDIjQXwOdTDZ81QQ6w1oQ77BtWWrM/

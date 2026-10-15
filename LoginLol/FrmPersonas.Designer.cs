@@ -61,6 +61,7 @@
             // 
             // btnGuardar
             // 
+            btnGuardar.Enabled = false;
             btnGuardar.Image = (Image)resources.GetObject("btnGuardar.Image");
             btnGuardar.ImageAlign = ContentAlignment.TopCenter;
             btnGuardar.Location = new Point(208, 12);
@@ -73,6 +74,7 @@
             // 
             // btnCancelar
             // 
+            btnCancelar.Enabled = false;
             btnCancelar.Image = (Image)resources.GetObject("btnCancelar.Image");
             btnCancelar.ImageAlign = ContentAlignment.TopCenter;
             btnCancelar.Location = new Point(326, 12);
@@ -82,6 +84,7 @@
             btnCancelar.Text = "Cancelar";
             btnCancelar.TextAlign = ContentAlignment.BottomCenter;
             btnCancelar.UseVisualStyleBackColor = true;
+            btnCancelar.Click += btnCancelar_Click;
             // 
             // btnEditar
             // 
@@ -130,6 +133,7 @@
             // 
             // txtID
             // 
+            txtID.Enabled = false;
             txtID.Location = new Point(139, 124);
             txtID.Name = "txtID";
             txtID.Size = new Size(144, 27);
@@ -147,6 +151,7 @@
             // 
             // txtNombre
             // 
+            txtNombre.Enabled = false;
             txtNombre.Location = new Point(382, 124);
             txtNombre.Name = "txtNombre";
             txtNombre.Size = new Size(144, 27);
@@ -154,6 +159,7 @@
             // 
             // txtTelefono
             // 
+            txtTelefono.Enabled = false;
             txtTelefono.Location = new Point(631, 124);
             txtTelefono.Name = "txtTelefono";
             txtTelefono.Size = new Size(144, 27);

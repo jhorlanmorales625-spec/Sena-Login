@@ -17,6 +17,23 @@ namespace LoginLol
 
         private void btnNuevo_Click(object sender, EventArgs e)
         {
+            //lo que esta habilitado, se desabilita
+            btnNuevo.Enabled = false;
+            btnEditar.Enabled = false;
+            btnSalir.Enabled = false;
+            btnEliminar.Enabled = false;
+            // lo que esta desabilitado, se habilita
+            btnGuardar.Enabled = true;
+            btnCancelar.Enabled = true;
+            txtID.Enabled = true;
+            txtNombre.Enabled = true;
+            txtTelefono.Enabled = true;
+            //enviar cursor cierto lugar (ID texto) 
+            txtID.Focus();
+            //limpiar textos
+            txtID.Clear();
+            txtNombre.Clear();
+            txtTelefono.Clear();
 
         }
 
@@ -33,6 +50,23 @@ namespace LoginLol
         private void label3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            //lo que esta habilitado, se desabilita
+            btnNuevo.Enabled = true;
+            btnEditar.Enabled = true;
+            btnSalir.Enabled = true;
+            btnEliminar.Enabled = true;
+            // lo que esta desabilitado, se habilita
+            btnGuardar.Enabled = false;
+            btnCancelar.Enabled = false;
+            txtID.Enabled = false;
+            txtNombre.Enabled = false;
+            txtTelefono.Enabled = false;
+            //foco
+            btnNuevo.Focus();
         }
     }
 }
