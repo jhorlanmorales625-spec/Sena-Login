@@ -17,7 +17,7 @@ namespace LoginLol
 
         private void FrmMenuPrincipal_Load(object sender, EventArgs e)
         {
-           
+
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
@@ -30,6 +30,12 @@ namespace LoginLol
                 //SALIR DE LA APP
                 Application.Exit();
             }
+        }
+
+        private void nuevoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmPersonas f = new FrmPersonas();
+            f.ShowDialog();
         }
     }
 }
