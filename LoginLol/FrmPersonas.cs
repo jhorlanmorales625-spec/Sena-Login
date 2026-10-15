@@ -68,5 +68,26 @@ namespace LoginLol
             //foco
             btnNuevo.Focus();
         }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            //si hay datos en los text box
+            //valido que si hay datos en los text box
+
+            if(txtID.Text == "" || txtNombre.Text == "" || txtTelefono.Text == "")
+            {
+                MessageBox.Show("Algunos datos estan en vacio!","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+            } else // Si hay datos mostrar y guardar!
+            {
+                MessageBox.Show("Datos Guardados!","Guardado con Exito",MessageBoxButtons.OK,MessageBoxIcon.Information);
+            }
+
+
+        }
     }
 }

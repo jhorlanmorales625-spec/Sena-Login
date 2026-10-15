@@ -71,6 +71,7 @@
             btnGuardar.Text = "Guardar";
             btnGuardar.TextAlign = ContentAlignment.BottomCenter;
             btnGuardar.UseVisualStyleBackColor = true;
+            btnGuardar.Click += btnGuardar_Click;
             // 
             // btnCancelar
             // 
@@ -123,6 +124,7 @@
             btnSalir.Text = "Salir";
             btnSalir.TextAlign = ContentAlignment.BottomCenter;
             btnSalir.UseVisualStyleBackColor = true;
+            btnSalir.Click += btnSalir_Click;
             // 
             // label1
             // 
